@@ -1,11 +1,11 @@
 # Post-test-1-
 
-DESKRIPSI
+****DESKRIPSI****
 
 Program ini dibuat menggunakan bahasa pemrograman Java untuk mengelola data ruangan rawat di rumah sakit. Konsep yang digunakan adalah CRUD (Create, Read, Update, Delete) sehingga data ruangan dapat ditambahkan, ditampilkan, diubah, maupun dihapus sesuai kebutuhan. Data yang dikelola mencakup nomor ruangan, tipe ruangan (VIP, Kelas 1, 2, 3), serta status ruangan (Kosong/Terisi). Struktur data yang digunakan adalah ArrayList untuk menyimpan dan memproses seluruh informasi ruangan. Pengguna berinteraksi dengan program melalui menu berbasis teks yang menerima input langsung dari keyboard. Dengan adanya program ini, pengelolaan ruangan rawat menjadi lebih terstruktur, sederhana, dan mudah dijalankan.
 
 
-Alur Program :
+****Alur Program :****
 
 
 
@@ -96,7 +96,10 @@ Kemudian yang terakhir yaitu keluar program menu ini digunakan untuk mengakhiri 
 
 
 
-Program
+
+
+
+****Program****
 
 <img width="1124" height="559" alt="image" src="https://github.com/user-attachments/assets/41ca1af9-02d8-4a55-8152-b5d81da73ace" />
 <img width="1130" height="567" alt="image" src="https://github.com/user-attachments/assets/438f64a6-f35e-4958-b67f-0ea5c44eff3c" />
