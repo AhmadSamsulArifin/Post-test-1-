@@ -18,7 +18,7 @@ public class Post_test1_pbo {
             this.status = status;
         }
 
-        @Override
+       
         public String toString() {
             return "Nomor: " + nomor + " | Tipe: " + tipe + " | Status: " + status;
         }
