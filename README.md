@@ -1,5 +1,8 @@
 # Post-test-1-
 
+Nama : Ahmad Samsul Arifin
+Nim : 2409116113
+
 ****DESKRIPSI****
 
 Program ini dibuat menggunakan bahasa pemrograman Java untuk mengelola data ruangan rawat di rumah sakit. Konsep yang digunakan adalah CRUD (Create, Read, Update, Delete) sehingga data ruangan dapat ditambahkan, ditampilkan, diubah, maupun dihapus sesuai kebutuhan. Data yang dikelola mencakup nomor ruangan, tipe ruangan (VIP, Kelas 1, 2, 3), serta status ruangan (Kosong/Terisi). Struktur data yang digunakan adalah ArrayList untuk menyimpan dan memproses seluruh informasi ruangan. Pengguna berinteraksi dengan program melalui menu berbasis teks yang menerima input langsung dari keyboard. Dengan adanya program ini, pengelolaan ruangan rawat menjadi lebih terstruktur, sederhana, dan mudah dijalankan.
