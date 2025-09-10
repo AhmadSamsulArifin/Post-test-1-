@@ -28,12 +28,15 @@ Keluar
 
 
 
-Menu pertamam yaitu menambah ruangan Pada menu ini, pengguna dapat menambahkan data ruangan baru. Data yang dimasukkan meliputi nomor ruangan, tipe ruangan, dan status ruangan. Data yang sudah dimasukkan akan disimpan ke dalam ArrayList sebagai wadah penyimpanan sementara.
+Menu pertama yaitu menambah ruangan Pada menu ini, pengguna dapat menambahkan data ruangan baru. Data yang dimasukkan meliputi nomor ruangan, tipe ruangan, dan status ruangan. Data yang sudah dimasukkan akan disimpan ke dalam ArrayList sebagai wadah penyimpanan sementara.
 
 
 
 
 <img width="363" height="46" alt="image" src="https://github.com/user-attachments/assets/22f90218-b276-4649-a2e0-a88f39e51f67" />
+
+
+
 
 
 
@@ -49,6 +52,9 @@ Kemudian yang kedua yaitu melihat data ruangan nenu ini menampilkan seluruh data
 
 
 <img width="429" height="93" alt="image" src="https://github.com/user-attachments/assets/3d2fc448-8dec-41ed-92cc-7b3cc38fc9ab" />
+
+
+
 
 
 
