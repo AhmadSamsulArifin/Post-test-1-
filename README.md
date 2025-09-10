@@ -106,7 +106,7 @@ Kemudian yang terakhir yaitu keluar program menu ini digunakan untuk mengakhiri 
 ****Program****
 
 
-<img width="1138" height="556" alt="image" src="https://github.com/user-attachments/assets/3329511f-867d-428d-96d5-8ba2d051e4d9" />
+<img width="1157" height="561" alt="image" src="https://github.com/user-attachments/assets/f72d99bc-de8d-4453-a52e-3e2a7d27f314" />
 <img width="1163" height="565" alt="image" src="https://github.com/user-attachments/assets/812d2507-ed89-4e5f-a67d-ad9f94cbc4bf" />
 <img width="1139" height="567" alt="image" src="https://github.com/user-attachments/assets/485284dd-6d90-413d-ab6a-b24c8d63f70d" />
 <img width="914" height="450" alt="image" src="https://github.com/user-attachments/assets/f538e9db-82ea-412f-94a3-89f8266d731c" />
