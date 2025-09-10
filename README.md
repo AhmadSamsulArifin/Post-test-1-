@@ -41,6 +41,11 @@ Menu pertama yaitu menambah ruangan Pada menu ini, pengguna dapat menambahkan da
 
 
 
+
+
+
+
+
 <img width="583" height="53" alt="image" src="https://github.com/user-attachments/assets/738afd08-7ace-4ecc-ba15-24ef54e683f1" />
 
 
@@ -52,6 +57,11 @@ Kemudian yang kedua yaitu melihat data ruangan nenu ini menampilkan seluruh data
 
 
 <img width="429" height="93" alt="image" src="https://github.com/user-attachments/assets/3d2fc448-8dec-41ed-92cc-7b3cc38fc9ab" />
+
+
+
+
+
 
 
 
