@@ -104,12 +104,15 @@ Kemudian yang terakhir yaitu keluar program menu ini digunakan untuk mengakhiri 
 
 
 ****Program****
-<img width="1152" height="562" alt="image" src="https://github.com/user-attachments/assets/5238ba47-0088-4fb7-bbdb-2c0839c083c9" />
-<img width="1154" height="568" alt="image" src="https://github.com/user-attachments/assets/35ef86b0-5be6-4c5e-94b6-c95f13d6ebcc" />
-<img width="1149" height="565" alt="image" src="https://github.com/user-attachments/assets/84d030ab-5b00-45a8-a7fe-b2d2651361fd" />
-<img width="1156" height="564" alt="image" src="https://github.com/user-attachments/assets/bf514308-0ba1-4b28-9fb9-50ce028cbfac" />
-<img width="1135" height="566" alt="image" src="https://github.com/user-attachments/assets/37a141c9-f63a-4b61-a562-75c3c30250d4" />
-<img width="1137" height="319" alt="image" src="https://github.com/user-attachments/assets/d9ba1128-94b3-4006-9c4e-b0c81e9099a6" />
+
+
+<img width="1138" height="556" alt="image" src="https://github.com/user-attachments/assets/3329511f-867d-428d-96d5-8ba2d051e4d9" />
+<img width="1163" height="565" alt="image" src="https://github.com/user-attachments/assets/812d2507-ed89-4e5f-a67d-ad9f94cbc4bf" />
+<img width="1139" height="567" alt="image" src="https://github.com/user-attachments/assets/485284dd-6d90-413d-ab6a-b24c8d63f70d" />
+<img width="914" height="450" alt="image" src="https://github.com/user-attachments/assets/f538e9db-82ea-412f-94a3-89f8266d731c" />
+
+
+
 
 
 
